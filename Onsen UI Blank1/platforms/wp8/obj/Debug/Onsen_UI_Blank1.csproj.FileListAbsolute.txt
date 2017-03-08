@@ -1,0 +1,14 @@
+C:\WorkOtake\Onsen UI Blank1\Onsen UI Blank1\platforms\wp8\Bin\Debug\ApplicationIcon.png
+C:\WorkOtake\Onsen UI Blank1\Onsen UI Blank1\platforms\wp8\Bin\Debug\Background.png
+C:\WorkOtake\Onsen UI Blank1\Onsen UI Blank1\platforms\wp8\Bin\Debug\io.onsen.sampleapp.dll
+C:\WorkOtake\Onsen UI Blank1\Onsen UI Blank1\platforms\wp8\Bin\Debug\io.onsen.sampleapp.pdb
+C:\WorkOtake\Onsen UI Blank1\Onsen UI Blank1\platforms\wp8\Bin\Debug\AppManifest.xaml
+C:\WorkOtake\Onsen UI Blank1\Onsen UI Blank1\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+C:\WorkOtake\Onsen UI Blank1\Onsen UI Blank1\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+C:\WorkOtake\Onsen UI Blank1\Onsen UI Blank1\platforms\wp8\obj\Debug\App.g.cs
+C:\WorkOtake\Onsen UI Blank1\Onsen UI Blank1\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+C:\WorkOtake\Onsen UI Blank1\Onsen UI Blank1\platforms\wp8\obj\Debug\MainPage.g.cs
+C:\WorkOtake\Onsen UI Blank1\Onsen UI Blank1\platforms\wp8\obj\Debug\io.onsen.sampleapp.g.resources
+C:\WorkOtake\Onsen UI Blank1\Onsen UI Blank1\platforms\wp8\obj\Debug\io.onsen.sampleapp.dll
+C:\WorkOtake\Onsen UI Blank1\Onsen UI Blank1\platforms\wp8\obj\Debug\io.onsen.sampleapp.pdb
+C:\WorkOtake\Onsen UI Blank1\Onsen UI Blank1\platforms\wp8\obj\Debug\XapCacheFile.xml

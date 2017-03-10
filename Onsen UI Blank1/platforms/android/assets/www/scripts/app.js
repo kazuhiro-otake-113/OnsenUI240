@@ -3,8 +3,20 @@ function login() {
     console.log("ログイン押下");
 
     //ログイン
-    client.login("aad").then(authSuccess, handleError);
+    //client.login("aad").then(authSuccess, handleError);
 /*
+    var DtimeDb = ncmb.DataStore("MasterEmp");
+    DtimeDb.equalTo("empId", "z2h3542")
+           .fetchAll()
+           .then(function (results) {
+               console.log("ncmb : " + results);
+           })
+         .catch(function (err) {
+             console.log(err);
+         });
+
+    console.log("end :");
+*/
     //画面遷移
     myNavigator.pushPage('time.html');
 
@@ -21,7 +33,7 @@ function login() {
         console.log("results : " + JSON.stringify(results));
         setData(results);
     }, handleError);
-*/
+
 }
 
 function setData(array) {

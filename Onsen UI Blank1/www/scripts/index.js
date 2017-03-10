@@ -5,6 +5,9 @@
 
 var mAppUrl = "https://mobile-otk220.azurewebsites.net/";
 var client;
+var ncmb;
+var appKey = "14c1de68f0d3f719c2368b89723f7e4be88de1ddb1b40584c1933db791df731e";
+var clientKey = "44e245113576fa4eaf9607c0c2692eda0ab504b64a8404b12add6369f46cd7e7";
 
 (function () {
     "use strict";
@@ -23,6 +26,10 @@ var client;
 
         //MobileApps‚ÖÚ‘±
         client = new WindowsAzure.MobileServiceClient(mAppUrl);
+
+        //nifty mobile backend‚ÉÚ‘±
+        ncmb = new NCMB(appKey, clientKey);
+        NCMB.initialize(appKey, clientKey);
     };
 
     function onPause() {
